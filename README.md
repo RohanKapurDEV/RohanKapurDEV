@@ -3,5 +3,5 @@ My name is Rohan Kapur and I love building software powered tools and services. 
 
 I'm currently actively working on Paymint - a Bitoin wallet for Android and iOS, although I do tend to work on smaller side projects apart from Paymint when I can. 
 
-[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanKapurDEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanKapurDEV&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
