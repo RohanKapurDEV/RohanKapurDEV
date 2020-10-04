@@ -10,3 +10,5 @@ I'm currently actively working on Paymint - a Bitoin wallet for Android and iOS,
 
 [![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanKapurDEV&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKapurDEV&layout=compact&theme=tokyonight)
+
+![Bitcoin Gif](https://thumbs.gfycat.com/InfatuatedElegantGoa-size_restricted.gif)
