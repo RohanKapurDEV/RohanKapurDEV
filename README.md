@@ -1,4 +1,4 @@
-[![Twitter: Rohan](https://img.shields.io/twitter/follow/RohanXKapur?style=social)](https://twitter.com/0xrohan) 
+[![Twitter: Rohan](https://img.shields.io/twitter/follow/0xrohan?style=social)](https://twitter.com/0xrohan) 
 [![GitHub Rohan](https://img.shields.io/github/followers/RohanKapurDEV?label=follow&style=social)](https://github.com/RohanKapurDEV)
 
 
