@@ -4,4 +4,4 @@
 
 
 # Hi, I'm Rohan 👋
-My name is Rohan Kapur and I love building software powered tools and services. Here, you can find a collection of my work. Some complete (✔) and others in WIP status (🛠) or abandoned entirely (😢) Feel free to snoop around. 
+My name is Rohan Kapur and I love building software powered tools and services. Here, you can find a collection of my work. Some complete (✔) and others either in WIP status (🛠) or abandoned entirely (😢) Feel free to snoop around. 
