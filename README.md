@@ -6,4 +6,5 @@
 Most of my current work is focused around crypto protocol engineering in Rust for the Solana blockchain. I also do work in Typescript and dabble in frontend web dev as and when my work requires me to. This GitHub profile serves as the most complete reflection of my work and state of mind so have fun browsing. Reach out to me on Twitter if you want to get in touch, DMs are always open!
 
 Twitter: @0xrohan
+
 Telegram: @RohanXKapur
