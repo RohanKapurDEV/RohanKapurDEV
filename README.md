@@ -6,6 +6,7 @@ Twitter: @0xrohan
 Telegram: @RohanXKapur
 
 Current PGP key:
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGNNhH4BEADf7QgsyIiW2P46OCxyZlpzzz6i3LHDRNEA+/HBN1DtXFRwWAN1
@@ -58,3 +59,4 @@ VFd3OK9NboNIrA4wNzuL2aApYYqWhPWomy1UQpwcBMUf36YDGOgfFAI62fxq8L+N
 PiXp
 =RhQU
 -----END PGP PUBLIC KEY BLOCK-----
+```
