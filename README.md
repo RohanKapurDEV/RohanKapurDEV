@@ -3,8 +3,8 @@
 
 Telegram: @RohanXKapur
 
-Currently: Backend/Infra @ Squads Protocol
-Formerly: Backend @ GooseFX
+- Currently: Backend/Infra @ Squads Protocol
+- Formerly: Backend @ GooseFX
 
 <details>
   <summary>Current PGP key</summary>
